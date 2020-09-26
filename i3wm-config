@@ -174,5 +174,5 @@ bar {
         status_command i3status
 }
 
+exec_always --no-startup-id conky
 exec_always feh --bg-scale /home/charlie/Downloads/897949.jpg
-
